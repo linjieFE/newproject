@@ -10,3 +10,11 @@ Sketch 打开终端程序
 //******
 
  Measure 插件
+
+https://oursketch.com/plugin/sketch-measure
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/linjieFE/XXX.git
+git push -u origin master
